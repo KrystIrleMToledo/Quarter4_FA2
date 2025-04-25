@@ -1,2 +1,2 @@
 Quarter4_FA2
-- topics included are module 12: loops
+- topic included is module 12: Loops
